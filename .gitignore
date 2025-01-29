@@ -1,0 +1,4 @@
+.env
+venv
+Vector Store/chroma_db
+Vector Store/faiss_index
